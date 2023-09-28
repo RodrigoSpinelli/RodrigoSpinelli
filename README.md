@@ -1,16 +1,30 @@
-### Hi there 👋
+<img align="right" alt="Gif" width="350" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/d99a4f3af7783e20-fe/s640x960/008da42b7297fc401fa26d92ed7e5dab1275368a.gifv">
 
-<!--
-**RodrigoSpinelli/RodrigoSpinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Eae! Eu me chamo Rodrigo.
+- 👨‍🎓 Tecnólogo em Redes de Computadores
+- 👨‍💻 Front-end Web Developer
+- 📱 Mobile Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills.
+<div style="display: inline_block"><br>
+	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img align="center" alt="Boostrap" height="30" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/bootstrap-4-logo.png">
+	<img align="center" alt="Tailwind" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png">
+	<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<img align="center" alt="TS" height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png">
+	<img align="center" alt="VUE" height="30" width="40" src="https://static-00.iconduck.com/assets.00/vue-icon-2048x1766-ntogpmti.png">
+	<img align="center" alt="React" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+	<img align="center" alt="VUE" height="30" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png">
+	<img align="center" alt="Next" height="30" src="https://dinhanhthi.com/img/header/nextjs.png">
+	<img align="center" alt="Nuxt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png">
+	<img align="center" alt="Flutter" height="30" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
+</div>
+  
+  ## Minhas redes sociais.
+  <div>
+		
+  <a href = "mailto: rodrigo.spinelli9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-spinelli-632a50199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/rodrigospinelli_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
