@@ -6,7 +6,7 @@
 - 📱 Mobile Developer
 
 ## My Skills.
-<div style="flex: auto"><br>
+<div style="flex: auto; align-items: center; justify-content: center;"><br>
 	<img alt="Boostrap" height="30" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/bootstrap-4-logo.png">
 	<img alt="Tailwind" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png">
 	<img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
