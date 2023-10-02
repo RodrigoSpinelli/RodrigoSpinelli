@@ -1,7 +1,7 @@
 <img align="right" alt="Gif" width="350" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/d99a4f3af7783e20-fe/s640x960/008da42b7297fc401fa26d92ed7e5dab1275368a.gifv">
 
-## Eae! Eu me chamo Rodrigo Spinelli.
-- 👨‍🎓 Tecnólogo em Redes de Computadores
+## Hi! My name is Rodrigo Spinelli.
+- 👨‍🎓 Computer Network Technologist
 - 👨‍💻 Front-end Web Developer
 - 📱 Mobile Developer
 
@@ -19,9 +19,8 @@
 	<img alt="VUE" height="30" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png">
 </div>
   
-  ## Minhas redes sociais.
-  <div>
-		
+  ## My social networks.
+  <div>	
   <a href = "mailto: rodrigo.spinelli9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-spinelli-632a50199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rodrigospinelli_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
