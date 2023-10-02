@@ -13,10 +13,10 @@
 	<img alt="TS" height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png">
 	<img alt="VUE" height="30" width="40" src="https://static-00.iconduck.com/assets.00/vue-icon-2048x1766-ntogpmti.png">
 	<img alt="React" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-	<img alt="VUE" height="30" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png">
 	<img alt="Next" height="30" src="https://dinhanhthi.com/img/header/nextjs.png">
 	<img alt="Nuxt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png">
 	<img alt="Flutter" height="30" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
+	<img alt="VUE" height="30" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png">
 </div>
   
   ## Minhas redes sociais.
