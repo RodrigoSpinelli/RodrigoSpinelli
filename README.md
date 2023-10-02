@@ -1,27 +1,20 @@
 <img align="right" alt="Gif" width="350" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/d99a4f3af7783e20-fe/s640x960/008da42b7297fc401fa26d92ed7e5dab1275368a.gifv">
 
-## Hi! My name is Rodrigo Spinelli.
-- 👨‍🎓 Computer Network Technologist
-- 👨‍💻 Front-end Web Developer
-- 📱 Mobile Developer
+<h1 align="center">Hi 👋, I'm Rodrigo Spinelli</h1>
+- 👨‍🎓 Computer Network Technologist <br/>
+- 👨‍💻 Front-end Web Developer <br/>
+- 📱 Mobile Developer 
 
-## My Skills.
-<div style="flex: auto; gap: 2%"><br>
-	<img alt="Boostrap" height="30" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/bootstrap-4-logo.png">
-	<img alt="Tailwind" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png">
-	<img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img alt="TS" height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png">
-	<img alt="VUE" height="30" width="40" src="https://static-00.iconduck.com/assets.00/vue-icon-2048x1766-ntogpmti.png">
-	<img alt="React" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-	<img alt="Next" height="30" src="https://dinhanhthi.com/img/header/nextjs.png">
-	<img alt="Nuxt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png">
-	<img alt="Flutter" height="30" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
-	<img alt="VUE" height="30" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png">
-</div>
+<h3 align="center">Languages and Tools:</h3>
+<hr />
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
   
-  ## My social networks.
+ <h3 align="center">Connect with me:</h3>
+ <hr />
   <div>	
-  <a href = "mailto: rodrigo.spinelli9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-spinelli-632a50199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/rodrigospinelli_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-spinelli-632a50199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-spinelli-632a50199/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rodrigospinelli_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rodrigospinelli_/" height="30" width="40" /></a>
+<a href="https://discord.gg/rodrigospinelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rodrigospinelli" height="30" width="40" /></a>
+</p>
 </div>
