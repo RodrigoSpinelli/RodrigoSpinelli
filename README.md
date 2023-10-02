@@ -1,12 +1,12 @@
 <img align="right" alt="Gif" width="350" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/d99a4f3af7783e20-fe/s640x960/008da42b7297fc401fa26d92ed7e5dab1275368a.gifv">
 
-## Eae! Eu me chamo Rodrigo.
+## Eae! Eu me chamo Rodrigo Spinelli.
 - 👨‍🎓 Tecnólogo em Redes de Computadores
 - 👨‍💻 Front-end Web Developer
 - 📱 Mobile Developer
 
 ## My Skills.
-<div style="flex: auto; align-items: center; justify-content: center;"><br>
+<div style="flex: auto; gap: 2%"><br>
 	<img alt="Boostrap" height="30" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/bootstrap-4-logo.png">
 	<img alt="Tailwind" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png">
 	<img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
