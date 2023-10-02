@@ -7,16 +7,16 @@
 
 ## My Skills.
 <div style="flex: auto"><br>
-	<img align="center" alt="Boostrap" height="30" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/bootstrap-4-logo.png">
-	<img align="center" alt="Tailwind" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png">
-	<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="TS" height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png">
-	<img align="center" alt="VUE" height="30" width="40" src="https://static-00.iconduck.com/assets.00/vue-icon-2048x1766-ntogpmti.png">
-	<img align="center" alt="React" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-	<img align="center" alt="VUE" height="30" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png">
-	<img align="center" alt="Next" height="30" src="https://dinhanhthi.com/img/header/nextjs.png">
-	<img align="center" alt="Nuxt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png">
-	<img align="center" alt="Flutter" height="30" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
+	<img alt="Boostrap" height="30" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/bootstrap-4-logo.png">
+	<img alt="Tailwind" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png">
+	<img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<img alt="TS" height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png">
+	<img alt="VUE" height="30" width="40" src="https://static-00.iconduck.com/assets.00/vue-icon-2048x1766-ntogpmti.png">
+	<img alt="React" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+	<img alt="VUE" height="30" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png">
+	<img alt="Next" height="30" src="https://dinhanhthi.com/img/header/nextjs.png">
+	<img alt="Nuxt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png">
+	<img alt="Flutter" height="30" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
 </div>
   
   ## Minhas redes sociais.
