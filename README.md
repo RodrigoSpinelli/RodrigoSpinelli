@@ -6,9 +6,7 @@
 - 📱 Mobile Developer
 
 ## My Skills.
-<div style="display: inline_block"><br>
-	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div style="flex: auto"><br>
 	<img align="center" alt="Boostrap" height="30" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/bootstrap-4-logo.png">
 	<img align="center" alt="Tailwind" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png">
 	<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
