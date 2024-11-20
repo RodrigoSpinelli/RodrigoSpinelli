@@ -24,6 +24,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://miro.medium.com/v2/resize:fit:1258/1*okiCUvTUJLtOqJv1dMzwpA.png" alt="nextjs" width="45" height="45" />
   </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030179.png" alt="nodejs" width="45" height="45" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="45" height="45" />
   </a>
@@ -47,13 +50,13 @@
   
  <h3 align="center">Connect with me:</h3>
   <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-spinelli-632a50199/" target="blank">
+<a href="https://www.linkedin.com/in/rodrigo-spinelli-632a50199/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-spinelli-632a50199/" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/spinellicodes/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=spinellicodes" height="30" width="40" />
 </a>
-<a href="https://discord.gg/rodrigospinelli" target="blank">
+<a href="rodrigospinelli" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rodrigospinelli" height="30" width="40" />
 </a>
 </p>
