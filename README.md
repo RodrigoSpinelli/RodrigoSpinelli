@@ -6,41 +6,41 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="45" height="45" />
   </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="nuxtjs" width="45" height="45" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="45" height="45" />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://miro.medium.com/v2/resize:fit:1258/1*okiCUvTUJLtOqJv1dMzwpA.png" alt="nextjs" width="45" height="45" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="45" height="45" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="45" height="45" />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45" />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" />
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="45" height="45" />
   </a>
 </p>
 
