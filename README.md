@@ -37,7 +37,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="45" height="45" />
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="45" />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
