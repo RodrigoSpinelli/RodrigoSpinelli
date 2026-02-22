@@ -1,62 +1,42 @@
-<img align="right" alt="Gif" width="350" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/d99a4f3af7783e20-fe/s640x960/008da42b7297fc401fa26d92ed7e5dab1275368a.gifv">
+<img align="right" alt="Gif" width="300" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/d99a4f3af7783e20-fe/s640x960/008da42b7297fc401fa26d92ed7e5dab1275368a.gifv">
 
 <h1 align="center">Hi 👋, I'm Rodrigo Spinelli</h1>
-👨‍🎓 Computer Network Technologist <br/>
-👨‍💻 Front-end Web Developer <br/>
 
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="border-radius: 10px;" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" style="border-radius: 10px;" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="45" height="45" />
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="nuxtjs" width="45" height="45" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="45" height="45" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://miro.medium.com/v2/resize:fit:1258/1*okiCUvTUJLtOqJv1dMzwpA.png" alt="nextjs" width="45" height="45" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030179.png" alt="nodejs" width="45" height="45" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="45" height="45" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="55" height="45" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="45" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="45" height="45" />
+👨‍🎓 Computer Network Technologist &nbsp;|&nbsp; 👨‍💻 Full-Stack Developer
+</p>
+
+---
+
+<h3 align="center">💻 Tech Stack</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nuxt,vue,docker,pinia,typescript,react,nodejs,prisma,tailwindcss,next,javascript,bootstrap,heroku,postgres,supabase,vitest,express&perline=9" />
   </a>
 </p>
 
-  
- <h3 align="center">Connect with me:</h3>
-  <p align="center">
-<a href="https://www.linkedin.com/in/rodrigo-spinelli-632a50199/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-spinelli-632a50199/" height="30" width="40" />
+---
+
+<h3 align="center">🌎 Connect with me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/rodrigo-spinelli-632a50199/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35"/>
 </a>
-<a href="https://www.instagram.com/spinellicodes/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=spinellicodes" height="30" width="40" />
+<a href="https://www.instagram.com/spinellicodes/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="35" height="35"/>
 </a>
-<a href="rodrigospinelli" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rodrigospinelli" height="30" width="40" />
+<a href="rodrigospinelli" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="35" height="35"/>
 </a>
+</p>
+
+---
+
+<h3 align="center">🧠 About Me</h3>
+<p align="center">
+- 4+ years of experience building **modern and scalable web applications** <br/>
+- Passionate about **clean code**, **TypeScript** and **modern frameworks** <br/>
+- Focused on building **scalable and maintainable systems** <br/>
+- Always learning and exploring **modern technologies**
 </p>
