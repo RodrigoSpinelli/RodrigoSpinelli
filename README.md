@@ -1,9 +1,7 @@
-<img align="right" alt="Gif" width="300" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/d99a4f3af7783e20-fe/s640x960/008da42b7297fc401fa26d92ed7e5dab1275368a.gifv">
-
 <h1 align="center">Hi 👋, I'm Rodrigo Spinelli</h1>
 
 <p align="center">
-👨‍🎓 Computer Network Technologist &nbsp;|&nbsp; 👨‍💻 Full-Stack Developer
+👨‍🎓 Analysis and Systems Development &nbsp;|&nbsp; 👨‍💻 Full-Stack Developer
 </p>
 
 ---
@@ -35,8 +33,8 @@
 
 <h3 align="center">🧠 About Me</h3>
 <p align="center">
-- 4+ years of experience building **modern and scalable web applications** <br/>
-- Passionate about **clean code**, **TypeScript** and **modern frameworks** <br/>
-- Focused on building **scalable and maintainable systems** <br/>
-- Always learning and exploring **modern technologies**
+- 4+ years of experience building <strong>modern and scalable web applications</strong> <br/>
+- Passionate about <strong>clean code</strong>, <strong>TypeScript</strong> and <strong>modern frameworks</strong> <br/>
+- Focused on building <strong>scalable and maintainable systems</strong> <br/>
+- Always learning and exploring <strong>modern technologies</strong>
 </p>
