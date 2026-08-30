@@ -33,7 +33,7 @@
 
 <h3 align="center">🧠 About Me</h3>
 <p align="center">
-- 4+ years of experience building <strong>modern and scalable web applications</strong> <br/>
+- 5+ years of experience building <strong>modern and scalable web applications</strong> <br/>
 - Passionate about <strong>clean code</strong>, <strong>TypeScript</strong> and <strong>modern frameworks</strong> <br/>
 - Focused on building <strong>scalable and maintainable systems</strong> <br/>
 - Always learning and exploring <strong>modern technologies</strong>
